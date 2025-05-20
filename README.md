@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-  >TITLE>PAGINA1</TITLE>
+ 
   <META CHARSET="UTF -8"/>
 </HEAD>
 <BODY>
